@@ -1,0 +1,5 @@
+{
+  "main": "../dist/api.js",
+  "module": "./index.js",
+  "sideEffects": false
+}
